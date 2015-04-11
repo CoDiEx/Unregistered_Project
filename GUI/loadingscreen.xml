@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Components>
+	<Component id = "0" description = "This is a test image">
+		<ImageIdentifer>missing_ui</ImageIdentifer>
+		<ImageY>0</ImageY>
+		<ImageX>0</ImageX>
+		<ImageCallback></ImageCallback>
+	</Component>
+</Components>
